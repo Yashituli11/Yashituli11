@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashituli11
-- 👀 I’m interested in ...Android development 
-- 🌱 I’m currently learning ...kotlin amd java
+- 👀 I’m interested in ...Android development and web dev
+- 🌱 I’m currently learning ...kotlin amd javascript
 
 
 
